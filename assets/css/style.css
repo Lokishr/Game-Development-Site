@@ -855,8 +855,12 @@ a:hover {
 --------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
+  background-color: black;
+  color:white;
 }
-
+.portfolio-details .portfolio-details-slider{
+  height:300px;
+}
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
 }
@@ -914,8 +918,12 @@ a:hover {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
-
-
+.download:hover{
+  color:#4ca3a6;
+}
+.color-white{
+  color:white;
+}
 /*--------------------------------------------------------------
 # Footer
 --------------------------------------------------------------*/
